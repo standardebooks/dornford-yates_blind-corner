@@ -45,14 +45,13 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:postscript"]{
-	margin-top: 1em;
-	text-align: initial;
-	text-indent: 0;
+footer > p:first-child{
+	margin-bottom: 1em;
 }
 
-[epub|type~="se:letter.dateline"]{
-	text-align: right;
+footer > p + p{
+	text-align: initial;
+	text-indent: 0;
 }
 
 #chapter-1 > blockquote:last-of-type{
