@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-8.xhtml">
+		<ignore code="t-008">
+			<line>169</line>
+			<reason>Correct usage of apostrophes.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
