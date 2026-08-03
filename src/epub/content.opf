@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dornford-yates/blind-corner</dc:identifier>
 		<dc:date>2026-04-02T18:06:11Z</dc:date>
@@ -41,11 +41,11 @@
 		<meta id="collection" property="belongs-to-collection">Richard Chandos</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">1</meta>
-		<dc:description id="description">A chance overhearing of an argument leads to a race for long-lost treasure.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A chance overhearing of an argument leads to a race for long-lost treasure.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;On his way back to England from an extended holiday in France, the young Richard Chandos stops his car on the side of the road for some lunch and a postprandial nap. He soon awakens to raised voices coming from the other side of the verge; an argument leads to a shot, and Chandos flees the scene with the dying man’s dog and a mysterious message. A couple of weeks later, Chandos and his hastily assembled team step onto the continent once more, on a mission to find a treasure trove hidden nearly two centuries ago. The only problem: a criminal gang, including the mysterious killer, isn’t far behind.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/dornford-yates"&gt;Dornford Yates&lt;/a&gt; was already an established author of light comic short stories by the early 1920s, but decided to turn his hand to writing thrillers with &lt;i&gt;Blind Corner&lt;/i&gt;, which would become the first book in the long-running &lt;a href="https://standardebooks.org/collections/richard-chandos"&gt;Richard Chandos series&lt;/a&gt;. Following in the stylistic footsteps of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;Buchan’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/richard-hannay"&gt;Richard Hannay&lt;/a&gt;, Chandos is a well-to-do protagonist with enough funds to procure anything necessary to achieve his goals. Indeed, it sometimes seems that there’s little to distinguish him from his rivals for the treasure, apart from a sense of fair play and an unwillingness to shoot first.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20200564</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.99291</dc:source>
