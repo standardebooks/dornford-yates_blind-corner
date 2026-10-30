@@ -63,8 +63,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
 		<meta property="file-as" refines="#artist">Courbet, Gustave</meta>
-		<link href="https://en.wikipedia.org/wiki/Gustave_Courbet" refines="#artist" rel="schema:sameAs"/>
 		<meta property="schema:alternateName" refines="#artist">Jean Désiré Gustave Courbet</meta>
+		<link href="https://en.wikipedia.org/wiki/Gustave_Courbet" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80057228.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
